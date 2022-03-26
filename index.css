@@ -1,0 +1,49 @@
+#container {
+            display:table-caption;
+            justify-content: center;
+            
+        }
+#test {
+            border: 8px double black;
+            border-radius: 15px;
+            margin: -2%;
+            height: 310px;
+            justify-content: center;
+        }
+
+#input{
+    height:50px;
+    width: 205px;
+    font-size:x-large;
+    border-radius:15px;
+    background-color:honeydew;
+}
+#clr,#divide,#del{
+    height:50px;
+    width: 50px;
+    font-size:xx-large;
+    border-radius:15px;
+    background-color:grey;
+}
+#modulus,#ans,#multiply,#plus,#minus{
+    height:50px;
+    width: 50px;
+    font-size:xx-large;
+    border-radius:15px;
+    background-color:orange;
+}
+
+#dot,#block1,#block2,#block3,#block4,#block5,#block6,#block7,#block8,#block9{
+    height:50px;
+    width: 50px;
+    font-size:xx-large;
+    border-radius:15px;
+    background-color:darkgray;
+}
+#block0{
+    height:50px;
+    width: 105px;
+    font-size:xx-large;
+    border-radius:15px;
+    background-color:darkgray;
+}
